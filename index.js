@@ -15,5 +15,5 @@ function logWhisper(string){
 }
 
 function HitoGrandma(string){
-  
+  if
 }
